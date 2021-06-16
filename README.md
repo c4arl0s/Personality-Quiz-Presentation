@@ -258,6 +258,25 @@
 14. [x] [14. Debug View Hierarchy](https://github.com/c4arl0s/AutolayoutAndStackViews#14-debug-view-hierarchy)
 15. [x] [15. Lab calculator](https://github.com/c4arl0s/AutolayoutAndStackViews#15-lab-calculator)
 
+### [Calculator - Lab](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#lab-calculator)
+
+1. [x] [Step 1](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-1)
+2. [x] [Step 2](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-2)
+3. [x] [Step 3](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-3)
+4. [x] [Step 4](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-4)
+5. [x] [Step 5](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-5)
+6. [x] [Step 6](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-6)
+7. [x] [Step 7](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-7)
+    - [x] [Vertical Stack View](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#vertical-stack-view)
+8. [x] [Step 8](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-8)
+    - [x] [Horizontal Stack View](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#horizontal-stackview)
+9. [x] [Step 9](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-9)
+10. [x] [Step 10](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-10)
+11. [x] [Step 11](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-11)
+12. [x] [Step 12](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-12)
+13. [x] [Step 13](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-13)
+
+
 ### [Guided Project : Apple Pie](https://github.com/c4arl0s/ApplePieApp#guided-project--apple-pie)
 
 1. [x] [1. Build the Interface](https://github.com/c4arl0s/ApplePieApp#1-build-the-interface)
@@ -611,7 +630,9 @@
     * [x] [Step 2: Add an Image Picker](https://github.com/c4arl0s/SystemViewControllers#-step-2-add-an-image-picker)
     * [x] [Step 3: Share Furniture With The UIActivityViewController](https://github.com/c4arl0s/SystemViewControllers#-step-3-share-furniture-with-the-uiactivityviewcontroller) 
 
-### [Building Complex Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#building-complex-input-screens)
+### [Building Complex Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#building-complex-input-screens) 
+
+### [Hotel Manzana App](https://github.com/c4arl0s/BuildingComplexInputScreens#1-model)
 
 1. [x] [1. Model](https://github.com/c4arl0s/BuildingComplexInputScreens#1-model)
 2. [x] [2. Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#2-input-screens)
