@@ -1,18 +1,18 @@
 [go back to main index](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift)
 
-# 1. [Getting Started With App Development]()
+# 1. [Getting Started With App Development](https://github.com/c4arl0s/AppDevelopmentWithSwift#1-getting-started-with-app-development)
 
-### [Introduction To Swift And Playgrounds]()
+### [Introduction To Swift And Playgrounds](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#introduction-to-swift-and-playgrounds)
 
-- [x] 1. [A little History](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#1-a-little-history)
-- [x] 2. [A modern language](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#2-a-modern-language)
-- [x] 3. [A safe language](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#3-a-safe-language)
-- [x] 4. [Open Source](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#4-open-source)
-- [x] 5. [Hello World](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#5-hello-world)
-- [x] 6. [Terminal](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#6-terminal)
-- [x] 7. [Playground](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#7-playground)
-
-### [Constants, Variables, And Data Types]()
+1. [x] [1. A little History](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#1-a-little-history)
+2. [x] [2. A modern language](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#2-a-modern-language)
+3. [x] [3. A safe language](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#3-a-safe-language)
+4. [x] [4. Open Source](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#4-open-source)
+5. [x] [5. Hello World](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#5-hello-world)
+6. [x] [6. Terminal](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#6-terminal)
+7. [x] [7. Playground](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#7-playground)
+ 
+### [Constants, Variables, And Data Types](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#constants-variables-and-data-types)
 
 1. [x] [1. Constants](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#1-constants)
 2. [x] [2. Variables](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#2-variables)
@@ -24,7 +24,7 @@
 8. [x] [8. Type Inference](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#8-type-inference)
 9. [x] [9. Required values](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#9-required-values)
 
-### [Operators]()
+### [Operators](https://github.com/c4arl0s/Operators#operators)
 
 1. [x] [1. Assign a value](https://github.com/c4arl0s/Operators#1-assign-a-value)
 2. [x] [2. Basic Arithmetic](https://github.com/c4arl0s/Operators#2-basic-arithmetic)
@@ -32,7 +32,7 @@
 4. [x] [4. Order of Operations](https://github.com/c4arl0s/Operators#4-order-of-operations)
 5. [x] [5. Numeric type conversion](https://github.com/c4arl0s/Operators#5-numeric-type-conversion)
 
-### [ControlFlow]()
+### [ControlFlow](https://github.com/c4arl0s/ControlFlow#controlflow)
 
 1. [x] [1. Logical Operators](https://github.com/c4arl0s/ControlFlow#1-logical-operators)
 2. [x] [2. If statements](https://github.com/c4arl0s/ControlFlow#2-if-statements)
@@ -41,14 +41,14 @@
 5. [x] [5. Switch Statement](https://github.com/c4arl0s/ControlFlow#5-switch-statement)
 6. [x] [6. Ternary Operator](https://github.com/c4arl0s/ControlFlow#6-ternary-operator)
 
-### [Xcode]()
+### [Xcode](https://github.com/c4arl0s/Xcode#xcode)
 
 1. [x] [1. Xcode Interface](https://github.com/c4arl0s/Xcode#1-xcode-interface)
 2. [x] [2. Xcode file types](https://github.com/c4arl0s/Xcode#2-xcode-file-types)
 3. [x] [3. Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
 4. [x] [4. Xcode Preferences](https://github.com/c4arl0s/Xcode#4-xcode-preferences)
 
-### [Building, Running And Debugging An App]()
+### [Building, Running And Debugging An App](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#building-running-and-debugging-an-app)
 
 1. [x] [1. Building and Running](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#1-building-and-running)
 2. [x] [2. Using a Personal Device](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#2-using-a-personal-device)
@@ -62,7 +62,7 @@
     - [x] [Step 2: Find and fix runtime errors](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#--step-2-find-and-fix-runtime-errors)
     - [x] [Step 3: Find and fix compiler warnings](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#--step-3-find-and-fix-compiler-warnings)
 
-### [Documentation]()
+### [Documentation](https://github.com/c4arl0s/Documentation#documentation)
 
 1. [x] [1. Documentation Browser](https://github.com/c4arl0s/Documentation#1-documentation-browser)
 2. [x] [2. Sample Code and Guides](https://github.com/c4arl0s/Documentation#2-sample-code-and-guides)
@@ -70,7 +70,7 @@
    - [x] [Step 1: Create a Pages Documentation for your answers](https://github.com/c4arl0s/Documentation#--step-1-create-a-pages-documentation-for-your-answers)
    - [x] [Step 2: Use Documentation to Learn about the UIView Class](https://github.com/c4arl0s/Documentation#--step-2-use-documentation-to-learn-about-the-uiview-class)
 
-### [Interface Builder Basics]()
+### [Interface Builder Basics](https://github.com/c4arl0s/InterfaceBuilderBasics#interface-builder-basics)
 
 1. [x] [1. Storyboards](https://github.com/c4arl0s/InterfaceBuilderBasics#1-storyboards)
 2. [x] [2. Interface Builder Layout](https://github.com/c4arl0s/InterfaceBuilderBasics#2-interface-builder-layout)
@@ -83,7 +83,7 @@
     - [x] [Step 2: Create a simple View with Interface Builder](https://github.com/c4arl0s/InterfaceBuilderBasics#--step-2-create-a-simple-view-with-interface-builder)
     - [x] [Step 3: Use the assistant editor to connect your view](https://github.com/c4arl0s/InterfaceBuilderBasics#--step-3-use-the-assistant-editor-to-connect-your-view)
 
-### [Guided Project Light]()
+### [Guided Project Light](https://github.com/c4arl0s/GuidedProjectLight#guided-project-light)
 
 1. [x] [Part 1: Create a button and an Action](https://github.com/c4arl0s/GuidedProjectLight#1-part-1-create-a-button-and-an-action)
 2. [x] [Part 2: Change the background](https://github.com/c4arl0s/GuidedProjectLight#2-part-2-change-the-background)
@@ -91,29 +91,29 @@
 4. [x] [Part 4: Improve the User Experience](https://github.com/c4arl0s/GuidedProjectLight#4-part-4-improve-the-user-experience)
 5. [x] [WrapUp](https://github.com/c4arl0s/GuidedProjectLight#5-wrapup)
 
-# 2. [Introduction to UIKit]()
+# 2. [Introduction to UIKit](https://github.com/c4arl0s/AppDevelopmentWithSwift#2-introduction-to-uikit)
 
-### [Strings]()
+### [Strings](https://github.com/c4arl0s/Strings#strings)
 
 1. [x] [1. String](https://github.com/c4arl0s/Strings#1-string)
-2. [x] [2. String - multiple lines](https://github.com/c4arl0s/Strings#2-string---multiple-lines)
-3. [x] [3. String - Empty string](https://github.com/c4arl0s/Strings#3-string---empty-string)
-4. [x] [4. String - character as string](https://github.com/c4arl0s/Strings#4-string---character-as-string)
-5. [x] [5. String - Concatenation](https://github.com/c4arl0s/Strings#5-string---concatenation)
-6. [x] [6. String - operator +=](https://github.com/c4arl0s/Strings#6-string---operator-)
-7. [x] [7. String - Interpolation](https://github.com/c4arl0s/Strings#7-string---interpolation)
-8. [x] [8. String - Entire expression into parenthesis](https://github.com/c4arl0s/Strings#8-string---entire-expression-into-parenthesis)
-9. [x] [9. String - Equality](https://github.com/c4arl0s/Strings#9-string---equality)
-10. [x] [10. String - `lowercased()` method](https://github.com/c4arl0s/Strings#10-string---lowercased-method)
-11. [x] [11. String - `hasPrefix(:)` and `hasSuffix(:)` methods](https://github.com/c4arl0s/Strings#11-string---hasprefix-and-hassuffix-methods)
-12. [x] [12. String - `contains(_:)` method](https://github.com/c4arl0s/Strings#12-string---contains_-method-)
-13. [x] [13. String - count property](https://github.com/c4arl0s/Strings#13-string---count-property)
-14. [x] [14. String - Using switch statement to pattern-match multiple values of strings or characters](https://github.com/c4arl0s/Strings#14-string---using-switch-statement-to-pattern-match-multiple-values-of-strings-or-characters)
+2. [x] [2. multiple lines](https://github.com/c4arl0s/Strings#2-string---multiple-lines)
+3. [x] [3. Empty string](https://github.com/c4arl0s/Strings#3-string---empty-string)
+4. [x] [4. character as string](https://github.com/c4arl0s/Strings#4-string---character-as-string)
+5. [x] [5. Concatenation](https://github.com/c4arl0s/Strings#5-string---concatenation)
+6. [x] [6. operator +=](https://github.com/c4arl0s/Strings#6-string---operator-)
+7. [x] [7. Interpolation](https://github.com/c4arl0s/Strings#7-string---interpolation)
+8. [x] [8. Entire expression into parenthesis](https://github.com/c4arl0s/Strings#8-string---entire-expression-into-parenthesis)
+9. [x] [9. Equality](https://github.com/c4arl0s/Strings#9-string---equality)
+10. [x] [10. `lowercased()` method](https://github.com/c4arl0s/Strings#10-string---lowercased-method)
+11. [x] [11. `hasPrefix(:)` and `hasSuffix(:)` methods](https://github.com/c4arl0s/Strings#11-string---hasprefix-and-hassuffix-methods)
+12. [x] [12. `contains(_:)` method](https://github.com/c4arl0s/Strings#12-string---contains_-method-)
+13. [x] [13. `count` property](https://github.com/c4arl0s/Strings#13-string---count-property)
+14. [x] [14. Using switch statement to pattern-match multiple values of strings or characters](https://github.com/c4arl0s/Strings#14-string---using-switch-statement-to-pattern-match-multiple-values-of-strings-or-characters)
 15. [x] [15. More Advance String topics](https://github.com/c4arl0s/Strings#15-more-advance-string-topics)
 16. [x] [16. Iterate over each character of a String instance](https://github.com/c4arl0s/Strings#16-iterate-over-each-character-of-a-string-instance)
 17. [x] [17. UNICODE](https://github.com/c4arl0s/Strings#17-unicode)
 
-### [Functions]()
+### [Functions](https://github.com/c4arl0s/Functions#functions)
 
 1. [x] [1. Defining a Function](https://github.com/c4arl0s/Functions#1-defining-a-function)
 2. [x] [2. Parameters](https://github.com/c4arl0s/Functions#2-parameters)
@@ -121,7 +121,7 @@
 4. [x] [4. Default Parameter Values](https://github.com/c4arl0s/Functions#4-default-parameter-values)
 5. [x] [5. Return Values](https://github.com/c4arl0s/Functions#5-return-values)
 
-### [Structures]()
+### [Structures](https://github.com/c4arl0s/Structures#structures)
 
 1. [x] [1. Structure definition](https://github.com/c4arl0s/Structures#1-structure-definition)
 2. [x] [2. Instances](https://github.com/c4arl0s/Structures#2-instances)
@@ -138,7 +138,7 @@
 13. [x] [13. self](https://github.com/c4arl0s/Structures#13-self)
 14. [x] [14. Variable properties](https://github.com/c4arl0s/Structures#14-variable-properties)
 
-### [Classes and Inheritance]()
+### [Classes and Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#classes-and-inheritance)
 
 1. [x] [1. Classes Definition](https://github.com/c4arl0s/ClassesAndInheritance#1-classes-definition)
 2. [x] [2. Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#2-inheritance)
@@ -152,7 +152,7 @@
 10. [x] [10. Working with Frameworks that use Classes](https://github.com/c4arl0s/ClassesAndInheritance#10-working-with-frameworks-that-use-classes)
 11. [x] [11. Stable Identity](https://github.com/c4arl0s/ClassesAndInheritance#11-stable-identity)
 
-### [Collections]()
+### [Collections](https://github.com/c4arl0s/Collections#collections)
 
 1. [x] [1. Arrays](https://github.com/c4arl0s/Collections#1-arrays)
 2. [x] [2. Array Types](https://github.com/c4arl0s/Collections#2-array-types)
@@ -161,7 +161,7 @@
 5. [x] [5. Add / Remove / Modify a dictionary](https://github.com/c4arl0s/Collections#5-add--remove--modify-a-dictionary)
 6. [x] [6. Accessing a Dictionary](https://github.com/c4arl0s/Collections#6-accessing-a-dictionary)
 
-### [Use The Build-In Swift collection Types]()
+### [Use The Build-In Swift collection Types](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#6-the-build-in-swift-collection-types)
 
 1. [x] [1. The Array](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#1-the-array)
 2. [x] [2. Accessing the Array](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#2-accessing-the-array)
@@ -179,13 +179,13 @@
 10. [x] [10. Heterogeneous Dictionaries](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#10-heterogeneous-dictionaries)
 11. [x] [11. Accesing & Modifying the contents of a Dictionary](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#11-accesing--modifying-the-contents-of-a-dictionary)
 
-### [Loops]()
+### [Loops](https://github.com/c4arl0s/Loops#loops)
 
 1. [x] [1. For Loops](https://github.com/c4arl0s/Loops#1-for-loops)
 2. [x] [2. While Loops](https://github.com/c4arl0s/Loops#2-while-loops)
 3. [x] [3. Control Transfer Statement](https://github.com/c4arl0s/Loops#3-control-transfer-statement)
 
-### [Introduction To UIKit]()
+### [Introduction To UIKit](https://github.com/c4arl0s/IntroductionToUIKit#introduction-to-uikit)
 
 1. [x] [1. Common System Views](https://github.com/c4arl0s/IntroductionToUIKit#1-common-system-views)
 2. [x] [2. Label](https://github.com/c4arl0s/IntroductionToUIKit#2-label)
@@ -210,7 +210,7 @@
     - [x] [Step 3: Repeat for Contacts, News, and Calendar](https://github.com/c4arl0s/IntroductionToUIKit#--step-3-repeat-for-contacts-news-and-calendar)
     - [x] [Step 4: Review the examples](https://github.com/c4arl0s/IntroductionToUIKit#--step-4-review-the-examples)
 
-### [Displaying Data]()
+### [Displaying Data](https://github.com/c4arl0s/DisplayingData#displaying-data)
 
 1. [x] [1. Planning the App](https://github.com/c4arl0s/DisplayingData#1-planning-the-app)
 2. [x] [2. Create the Project](https://github.com/c4arl0s/DisplayingData#2-create-the-project)
@@ -226,7 +226,7 @@
     - [x] [Step 2: Set up The Image Views](https://github.com/c4arl0s/DisplayingData#--step-2-set-up-the-image-views)
     - [x] [Step 3: Set up the labels](https://github.com/c4arl0s/DisplayingData#--step-3-set-up-the-labels)
 
-### [Controls In Action]()
+### [Controls In Action](https://github.com/c4arl0s/ControlsInAction#controls-in-action)
 
 1. [x] [1. Buttons](https://github.com/c4arl0s/ControlsInAction#1-buttons)
 2. [x] [2. Switches](https://github.com/c4arl0s/ControlsInAction#2-switches)
@@ -240,7 +240,7 @@
     - [x] [Step 2: Create Outlets and Actions](https://github.com/c4arl0s/ControlsInAction#--step-2-create-outlets-and-actions)
     - [x] [Step 3: Add Code for your actions](https://github.com/c4arl0s/ControlsInAction#--step-3-add-code-for-your-actions)
 
-### [AutoLayout And Stack Views]()
+### [AutoLayout And Stack Views](https://github.com/c4arl0s/AutolayoutAndStackViews#autolayout-and-stack-views)
 
 1. [x] [1. Why Autolayout](https://github.com/c4arl0s/AutolayoutAndStackViews#1-why-autolayout)
 2. [x] [2. Create Alignment Constraints](https://github.com/c4arl0s/AutolayoutAndStackViews#2-create-alignment-constraints)
@@ -258,7 +258,7 @@
 14. [x] [14. Debug View Hierarchy](https://github.com/c4arl0s/AutolayoutAndStackViews#14-debug-view-hierarchy)
 15. [x] [15. Lab calculator](https://github.com/c4arl0s/AutolayoutAndStackViews#15-lab-calculator)
 
-### [Guided Project : Apple Pie]()
+### [Guided Project : Apple Pie](https://github.com/c4arl0s/ApplePieApp#guided-project--apple-pie)
 
 1. [x] [1. Build the Interface](https://github.com/c4arl0s/ApplePieApp#1-build-the-interface)
 2. [x] [2. Layout in Storyboard](https://github.com/c4arl0s/ApplePieApp#2-layout-in-storyboard)
@@ -276,9 +276,9 @@
 14. [x] [14. Wrapup](https://github.com/c4arl0s/ApplePieApp#14-wrapup)
 15. [x] [15. Streth Goals](https://github.com/c4arl0s/ApplePieApp#15-streth-goals)
 
-# 3. [Navigation And Workflows]()
+# 3. [Navigation And Workflows](https://github.com/c4arl0s/AppDevelopmentWithSwift#3-navigation-and-workflows)
 
-### [Optionals]()
+### [Optionals](https://github.com/c4arl0s/Optionals#optionals---content)
 
 1. [x] [1. Optionals](https://github.com/c4arl0s/Optionals#1-optionals)
 	* [x] [NIL](https://github.com/c4arl0s/Optionals#-nil)
@@ -289,21 +289,21 @@
 	* [x] [Optional Chaining](https://github.com/c4arl0s/Optionals#-optional-chaining)
 	* [x] [Implicitly Unwrapped Optionals](https://github.com/c4arl0s/Optionals#-implicitly-unwrapped-optionals)
 
-### [2. Type Casting and Inspection]()
+### [2. Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection#2-type-casting-and-inspection)
 
 1. [x] [1. Type Casting](https://github.com/c4arl0s/TypeCastingAndInspection#1-type-casting)
 2. [x] [2. Any](https://github.com/c4arl0s/TypeCastingAndInspection#2-any)
 
-### 3. [Guard]()
+### 3. [Guard](https://github.com/c4arl0s/Guard#3-guard)
 
 1. [x] [1. Guard with optionals](https://github.com/c4arl0s/Guard#1-guard-with-optionals)
 
-### 4. [Constant and Variable Scope]()
+### 4. [Constant and Variable Scope](https://github.com/c4arl0s/ConstantAndVariableScope#4-constant-and-variable-scope)
 
 1. [x] [1. Variable Shadowing](https://github.com/c4arl0s/ConstantAndVariableScope#-variable-shadowing)
 2. [x] [2. Shadowing and Initializers](https://github.com/c4arl0s/ConstantAndVariableScope#-shadowing-and-initializers)
 
-### [Enumerations]()
+### [Enumerations](https://github.com/c4arl0s/Enumerations#enumerations)
 
 1. [x] [1. Control Flow](https://github.com/c4arl0s/Enumerations#1-control-flow)
 2. [x] [2. Type Safety Benefits](https://github.com/c4arl0s/Enumerations#2-type-safety-benefits)
@@ -311,7 +311,7 @@
 4. [x] [4. Associated Values](https://github.com/c4arl0s/Enumerations#4-associated-values)
 5. [x] [5. How to combine the use of Associated Values and Row values](https://github.com/c4arl0s/Enumerations#5--how-to-combine-the-use-of-associated-values-and-row-values)
 
-### [Segues and Navigation Controllers]()
+### [Segues and Navigation Controllers](https://github.com/c4arl0s/SeguesAndNavigationControllers#segues-and-navigation-controllers)
 
 1. [x] [1. Segues](https://github.com/c4arl0s/SeguesAndNavigationControllers#1-segues)
 2. [x] [2. Create Triggered Segues](https://github.com/c4arl0s/SeguesAndNavigationControllers#2-create-triggered-segues)
@@ -327,7 +327,7 @@
     * [x] [Step 2: Add Navigation Controller and Prepare for Segue](https://github.com/c4arl0s/SeguesAndNavigationControllers#-step-2-add-navigation-controller-and-prepare-for-segue)
     * [x] [Step 3: Add programmatic segues](https://github.com/c4arl0s/SeguesAndNavigationControllers#-step-3-add-programmatic-segues)
 
-### [Tab Bar Controllers]()
+### [Tab Bar Controllers](https://github.com/c4arl0s/TabBarControllers#tab-bar-controllers)
 
 1. [x] [1. Add Tab Bar Controller](https://github.com/c4arl0s/TabBarControllers#1-add-tab-bar-controller)
 2. [x] [2. Add Tabs](https://github.com/c4arl0s/TabBarControllers#2-add-tabs)
@@ -343,7 +343,7 @@
     * [x] [Step 1: Set up your View Controllers](https://github.com/c4arl0s/TabBarControllers#-step-1-set-up-your-view-controllers)
     * [x] [Step 2: Set up your Tab Bar Controller](https://github.com/c4arl0s/TabBarControllers#-step-2-set-up-your-tab-bar-controller)
 
-### [ViewController Life Cycle]()
+### [ViewController Life Cycle](https://github.com/c4arl0s/ViewControllerLifeCycle#viewcontroller-life-cycle)
 
 1. [x] [1. View Controller Life Cycle](https://github.com/c4arl0s/ViewControllerLifeCycle#1-view-controller-life-cycle)
 2. [x] [2. View Did Load](https://github.com/c4arl0s/ViewControllerLifeCycle#2-view-did-load)
@@ -357,7 +357,7 @@
    * [x] [Step 3: Update the label based on the Life Cycle Event](https://github.com/c4arl0s/ViewControllerLifeCycle#step-3-update-the-label-based-on-the-life-cycle-event)
    * [x] [MiddleViewController embedded in TabBarController](https://github.com/c4arl0s/ViewControllerLifeCycle#-middleviewcontroller-embedded-in-navigationcontroller)
 
-### [Building Simple Workflows - Content](https://github.com/c4arl0s/BuildingSimpleWorkflows#go-back-to-content)
+### [Building Simple Workflows - Content](https://github.com/c4arl0s/BuildingSimpleWorkflows#building-simple-workflows)
 
 1. [x] [1. Designing Principles](https://github.com/c4arl0s/BuildingSimpleWorkflows#1-designing-principles)
     - [X] [Aesthetic Integrity](https://github.com/c4arl0s/BuildingSimpleWorkflows#--aesthetic-integrity)
@@ -378,50 +378,44 @@
     - [X] [Step 2: Check Out](https://github.com/c4arl0s/BuildingSimpleWorkflows#--step-2-check-out)
     - [X] [Step 3: Other useful Features](https://github.com/c4arl0s/BuildingSimpleWorkflows#--step-3-other-useful-features)
 
+### [Personality Quiz](https://github.com/c4arl0s/PersonalityQuiz#personality-quiz---content-1)
 
-### [Personality Quiz]()
+1. [x] [1. Project Planning](https://github.com/c4arl0s/PersonalityQuiz#project-one---project-planning)
+    - [x] [Features](https://github.com/c4arl0s/PersonalityQuiz#1-features)
+    - [x] [Workflow](https://github.com/c4arl0s/PersonalityQuiz#2-workflow)
+    - [x] [Controllers](https://github.com/c4arl0s/PersonalityQuiz#3-controllers)
+    - [x] [Views](https://github.com/c4arl0s/PersonalityQuiz#4-views)
+    - [x] [Models](https://github.com/c4arl0s/PersonalityQuiz#5-models)
+    - [x] [Quick Overview](https://github.com/c4arl0s/PersonalityQuiz#6-quick-overview)	
+2. [x] [2. Project Setup](https://github.com/c4arl0s/PersonalityQuiz#project-two---project-setup)
+    - [x] [Create the introduction screen](https://github.com/c4arl0s/PersonalityQuiz#1-create-the-introduction-screen)
+    - [x] [Create the question-and-answer screen](https://github.com/c4arl0s/PersonalityQuiz#2-create-the-question-and-answer-screen)
+    - [x] [Create the result screen](https://github.com/c4arl0s/PersonalityQuiz#3-create-the-result-screen)
+    - [x] [Create Descriptive Subclasess](https://github.com/c4arl0s/PersonalityQuiz#4-create-descriptive-subclasess)
+3. [x] [3. Create questions and answers](https://github.com/c4arl0s/PersonalityQuiz#part-three---create-questions-and-answers)
+    - [x] [Single-answer Questions](https://github.com/c4arl0s/PersonalityQuiz#1-single-answer-questions)
+    - [x] [Multiple-Answers Questions](https://github.com/c4arl0s/PersonalityQuiz#2-multiple-answers-questions)
+    - [x] [Range Questions](https://github.com/c4arl0s/PersonalityQuiz#3-range-questions)
+    - [x] [Question Label and Progress](https://github.com/c4arl0s/PersonalityQuiz#4-question-label-and-progress)
+4. [x] [4. Models and Outlets](https://github.com/c4arl0s/PersonalityQuiz#part-four---models-and-outlets)
+    - [x] [Data Models](https://github.com/c4arl0s/PersonalityQuiz#1-data-models)
+    - [x] [Display Questions and Answers](https://github.com/c4arl0s/PersonalityQuiz#2-display-questions-and-answers)
+    - [x] [Display Questions with the Right Controls](https://github.com/c4arl0s/PersonalityQuiz#3-display-questions-with-the-right-controls)
+    - [x] [Update the Buttons and Label Text](https://github.com/c4arl0s/PersonalityQuiz#4-update-the-buttons-and-label-text)
+    - [x] [Retrieve Answers with Actions](https://github.com/c4arl0s/PersonalityQuiz#5-retrieve-answers-with-actions)
+    - [x] [Respond to Answered Questions](https://github.com/c4arl0s/PersonalityQuiz#respond-to-answered-questions)
+5. [x] [5. Calculate and display results](https://github.com/c4arl0s/PersonalityQuiz#part-five---calculate-and-display-resuls)
+    - [x] [Pass Data to the Result View](https://github.com/c4arl0s/PersonalityQuiz#1-pass-data-to-the-result-view)
+    - [x] [Calculate Answer Frequency](https://github.com/c4arl0s/PersonalityQuiz#2-calculate-answer-frequency)
+    - [x] [Determine the Most Frequent Answers](https://github.com/c4arl0s/PersonalityQuiz#3-determine-the-most-frequent-answers)
+    - [x] [View the Results](https://github.com/c4arl0s/PersonalityQuiz#4-view-the-results)
+    - [x] [Restart the Quiz](https://github.com/c4arl0s/PersonalityQuiz#5-restart-the-quiz)
+    - [x] [Wrapup](https://github.com/c4arl0s/PersonalityQuiz#6-wrapup)
+    - [x] [Stretch Goals](https://github.com/c4arl0s/PersonalityQuiz#7-stretch-goals)
 
-[PROJECT ONE - Project Planning](https://github.com/c4arl0s/PersonalityQuiz#project-one---project-planning)
-1. [x] [Features](https://github.com/c4arl0s/PersonalityQuiz#1-features)
-2. [x] [Workflow](https://github.com/c4arl0s/PersonalityQuiz#2-workflow)
-3. [x] [Controllers](https://github.com/c4arl0s/PersonalityQuiz#3-controllers)
-4. [x] [Views](https://github.com/c4arl0s/PersonalityQuiz#4-views)
-5. [x] [Models](https://github.com/c4arl0s/PersonalityQuiz#5-models)
-6. [x] [Quick Overview](https://github.com/c4arl0s/PersonalityQuiz#6-quick-overview)
-	
-[PROJECT TWO - Project Setup](https://github.com/c4arl0s/PersonalityQuiz#project-two---project-setup)
-1. [x] [Create the introduction screen](https://github.com/c4arl0s/PersonalityQuiz#1-create-the-introduction-screen)
-2. [x] [Create the question-and-answer screen](https://github.com/c4arl0s/PersonalityQuiz#2-create-the-question-and-answer-screen)
-3. [x] [Create the result screen](https://github.com/c4arl0s/PersonalityQuiz#3-create-the-result-screen)
-4. [x] [Create Descriptive Subclasess](https://github.com/c4arl0s/PersonalityQuiz#4-create-descriptive-subclasess)
+# 4. [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode)
 
-[PART THREE - Create questions and answers](https://github.com/c4arl0s/PersonalityQuiz#part-three---create-questions-and-answers)
-1. [x] [Single-answer Questions](https://github.com/c4arl0s/PersonalityQuiz#1-single-answer-questions)
-2. [x] [Multiple-Answers Questions](https://github.com/c4arl0s/PersonalityQuiz#2-multiple-answers-questions)
-3. [x] [Range Questions](https://github.com/c4arl0s/PersonalityQuiz#3-range-questions)
-4. [x] [Question Label and Progress](https://github.com/c4arl0s/PersonalityQuiz#4-question-label-and-progress)
-
-[PART FOUR - MODELS AND OUTLETS](https://github.com/c4arl0s/PersonalityQuiz#part-four---models-and-outlets)
-1. [x] [Data Models](https://github.com/c4arl0s/PersonalityQuiz#1-data-models)
-2. [x] [Display Questions and Answers](https://github.com/c4arl0s/PersonalityQuiz#2-display-questions-and-answers)
-3. [x] [Display Questions with the Right Controls](https://github.com/c4arl0s/PersonalityQuiz#3-display-questions-with-the-right-controls)
-4. [x] [Update the Buttons and Label Text](https://github.com/c4arl0s/PersonalityQuiz#4-update-the-buttons-and-label-text)
-5. [x] [Retrieve Answers with Actions](https://github.com/c4arl0s/PersonalityQuiz#5-retrieve-answers-with-actions)
-
-[RESPOND TO ANSWERED QUESTIONS](https://github.com/c4arl0s/PersonalityQuiz#respond-to-answered-questions)
-
-[PART FIVE - CALCULATE AND DISPLAY RESULS](https://github.com/c4arl0s/PersonalityQuiz#part-five---calculate-and-display-resuls)
-1. [x] [Pass Data to the Result View](https://github.com/c4arl0s/PersonalityQuiz#1-pass-data-to-the-result-view)
-2. [x] [Calculate Answer Frequency](https://github.com/c4arl0s/PersonalityQuiz#2-calculate-answer-frequency)
-3. [x] [Determine the Most Frequent Answers](https://github.com/c4arl0s/PersonalityQuiz#3-determine-the-most-frequent-answers)
-4. [x] [View the Results](https://github.com/c4arl0s/PersonalityQuiz#4-view-the-results)
-5. [x] [Restart the Quiz](https://github.com/c4arl0s/PersonalityQuiz#5-restart-the-quiz)
-6. [x] [Wrapup](https://github.com/c4arl0s/PersonalityQuiz#6-wrapup)
-7. [x] [Stretch Goals](https://github.com/c4arl0s/PersonalityQuiz#7-stretch-goals)
-
-# 4. [Building AR Apps with Xcode]()
-
-### [The Augmented Reality Template]()
+### [The Augmented Reality Template](https://github.com/c4arl0s/TheAugmentedRealityTemplate#the-augmented-reality-template)
 
 1. [x] [1. Dissecting the Project Template](https://github.com/c4arl0s/TheAugmentedRealityTemplate#1-dissecting-the-project-template)
 2. [x] [2. Basic of ARKit and SceneKit](https://github.com/c4arl0s/TheAugmentedRealityTemplate#2-basic-of-arkit-and-scenekit)
@@ -432,7 +426,7 @@
 4. [x] [Exercises](https://github.com/c4arl0s/TheAugmentedRealityTemplate#4-exercises)
 5. [x] [Advanced Questions](https://github.com/c4arl0s/TheAugmentedRealityTemplate#5-advanced-questions)
 
-### [Introduction To SceneKit]()
+### [Introduction To SceneKit](https://github.com/c4arl0s/IntroductionToSceneKit#introduction-to-scenekit)
 
 1. [x] [1. SceneKit Objects](https://github.com/c4arl0s/IntroductionToSceneKit#1-scenekit-objects)
 2. [x] [2. Creating Scenes](https://github.com/c4arl0s/IntroductionToSceneKit#2-creating-scenes)
@@ -445,7 +439,7 @@
        * [x] [Lighting](https://github.com/c4arl0s/IntroductionToSceneKit#-lighting)
 3. [x] [3. Exercises](https://github.com/c4arl0s/IntroductionToSceneKit#3-exercises)
 
-### [Finding Flat Surfaces]()
+### [Finding Flat Surfaces](https://github.com/c4arl0s/FindingFlatSurfaces#finding-flat-surfaces)
 
 1. [x] [1. Feature Points](https://github.com/c4arl0s/FindingFlatSurfaces#1-feature-points)
     - [x] [Recommendations for Tracking Feature Points](https://github.com/c4arl0s/FindingFlatSurfaces#--recommendations-for-tracking-feature-points)
@@ -456,7 +450,7 @@
 4. [x] [4. Connecting Assets to Planes](https://github.com/c4arl0s/FindingFlatSurfaces#4-connecting-assets-to-planes)
 5. [x] [5. Exercises](https://github.com/c4arl0s/FindingFlatSurfaces#5-exercises)
 
-### [Interacting With Augmented Reality]()
+### [Interacting With Augmented Reality](https://github.com/c4arl0s/interactingwithaugmentedreality#interacting-with-augmented-reality)
 
 1. [x] [1. Project SetUp](https://github.com/c4arl0s/interactingwithaugmentedreality#1-Project-SetUp)
 2. [x] [2. Creating a Baseball Hoop](https://github.com/c4arl0s/interactingwithaugmentedreality#2-Creating-a-Baseball-Hoop)
@@ -468,9 +462,9 @@
 8. [ ] [8. Physics Body](https://github.com/c4arl0s/interactingwithaugmentedreality#8-Physics-Body)
 9. [ ] [9. Physics Shape](https://github.com/c4arl0s/interactingwithaugmentedreality#9-Physics-Shape)
 
-# 5. [Tables and Persistence]()
+# 5. [Tables and Persistence](https://github.com/c4arl0s/AppDevelopmentWithSwift#5-tables-and-persistence)
 
-### [Protocols]()
+### [Protocols](https://github.com/c4arl0s/Protocols#protocols)
 
 1. [x] [1. Printing information with CustomStringConvertible](https://github.com/c4arl0s/Protocols#1-printing-information-with-customstringconvertible)
 2. [x] [2. Comparing information with Equatable](https://github.com/c4arl0s/Protocols#2-comparing-information-with-equatable)
@@ -479,7 +473,7 @@
 5. [x] [5. Creating a protocol](https://github.com/c4arl0s/Protocols#5-creating-a-protocol)
 6. [x] [6. Delegation](https://github.com/c4arl0s/Protocols#6-delegation)
 
-### [App Anatomy And Life Cycle]()
+### [App Anatomy And Life Cycle](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#app-anatomy-and-life-cycle---content-1)
 
 1. [x] [1. Break Down The Delegate](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#1-break-down-the-delegate)
 2. [x] [2. Did Finish Launching](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#2-did-finish-launching)
@@ -497,7 +491,7 @@
     * [x] [Step 4: Regularly Update the View](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#-step-4-regularly-update-the-view)
     * [x] [Step 5: Test](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#-step-5-test)
 
-### [Model View Controller]()
+### [Model View Controller](https://github.com/c4arl0s/ModelViewController#model-view-controller)
 
 1. [x] [1. Model](https://github.com/c4arl0s/ModelViewController#1-model)
     - [x] [Communication - Model](https://github.com/c4arl0s/ModelViewController#--communication---model)
@@ -523,7 +517,7 @@
     - [x] [Step 5: Finish Implementing atheteTableViewController](https://github.com/c4arl0s/ModelViewController#--step-5-finish-implementing-athetetableviewcontroller)
     - [x] [Step 6: Perform the Unwind Segue in Storyboard](https://github.com/c4arl0s/ModelViewController#--ste-6-perform-the-unwind-segue-in-storyboard)
 
-### [ScrollViews]()
+### [ScrollViews](https://github.com/c4arl0s/ScrollViews#scrollviews---intro)
 
 1. [x] [1. Scrollviews in Interface Builder](https://github.com/c4arl0s/ScrollViews#1-scrollviews-in-interface-builder)
     * [x] [Define Scroll View Frame](https://github.com/c4arl0s/ScrollViews#-define-scroll-view-frame)  
@@ -541,7 +535,7 @@
     - [x] [Step 1: Set up the Storyboard](https://github.com/c4arl0s/ScrollViews#--step-1-set-up-the-storyboard)
     - [x] [Step 2: Implement the UIScrollViewDelegate](https://github.com/c4arl0s/ScrollViews#--step-2-implement-the-uiscrollviewdelegate)
 
-### [Table Views]()
+### [Table Views](https://github.com/c4arl0s/TableViews#0-tableview---intro)
 
 0. [x] [0. TableView - Intro](https://github.com/c4arl0s/TableViews#0-tableview---intro)
 1. [x] [1. Anatomy of a Table View](https://github.com/c4arl0s/TableViews#1-anatomy-of-a-table-view)
@@ -566,7 +560,7 @@
 20. [x] [20. Reload Data](https://github.com/c4arl0s/TableViews#20-reload-data)
 21. [x] [21. Challenge](https://github.com/c4arl0s/TableViews#21-challenge)
 
-### [Intermediate Table Views]()
+### [Intermediate Table Views](https://github.com/c4arl0s/IntermediateTableViews#0-intermediate-table-views---intro)
 
 0. [x] [0. Intermediate Table Views - Intro](https://github.com/c4arl0s/IntermediateTableViews#0-intermediate-table-views---intro)
 1. [x] [1. Custom Table View Cells](https://github.com/c4arl0s/IntermediateTableViews#1-custom-table-view-cells)
@@ -589,7 +583,7 @@
     - [x] [Step 3: Delete Books](https://github.com/c4arl0s/IntermediateTableViews#--step-3-delete-books)
     - [x] [Step 4: Create a Custom Book Cell](https://github.com/c4arl0s/IntermediateTableViews#--step-4-create-a-custom-book-cell)
 
-### [Saving Data]()
+### [Saving Data](https://github.com/c4arl0s/SavingData#0-introduction)
 
 0. [x] [0. Introduction](https://github.com/c4arl0s/SavingData#0-introduction)
 1. [x] [1. Encoding and Decoding with Codable](https://github.com/c4arl0s/SavingData#1-encoding-and-decoding-with-codable)
@@ -602,7 +596,7 @@
     - [x] [Step 1: Implementing Saving On](https://github.com/c4arl0s/SavingData#-step-1-implementing-saving-on)
     - [x] [Step 2: Save and Load when appropiate](https://github.com/c4arl0s/SavingData#-step-2-save-and-load-when-appropiate)
 
-### [System View Controllers]()
+### [System View Controllers](https://github.com/c4arl0s/SystemViewControllers/blob/master/README.md#system-view-controllers---content-1)
 
 1. [x] [1. Create the Project](https://github.com/c4arl0s/SystemViewControllers/blob/master/README.md#1-create-the-project)
 2. [x] [2. Share with the Activity View Controller](https://github.com/c4arl0s/SystemViewControllers/blob/master/README.md#2-share-with-the-activity-view-controller)
@@ -617,7 +611,7 @@
     * [x] [Step 2: Add an Image Picker](https://github.com/c4arl0s/SystemViewControllers#-step-2-add-an-image-picker)
     * [x] [Step 3: Share Furniture With The UIActivityViewController](https://github.com/c4arl0s/SystemViewControllers#-step-3-share-furniture-with-the-uiactivityviewcontroller) 
 
-### [Building Complex Input Screens]()
+### [Building Complex Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#building-complex-input-screens)
 
 1. [x] [1. Model](https://github.com/c4arl0s/BuildingComplexInputScreens#1-model)
 2. [x] [2. Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#2-input-screens)
@@ -639,7 +633,7 @@
     * [x] [Step 2: Add input Screen for Employee Type](https://github.com/c4arl0s/BuildingComplexInputScreens#-step-2-add-input-screen-for-employee-type)
     * [x] [Step 3: Add Custom Delegate For Employee Type](https://github.com/c4arl0s/BuildingComplexInputScreens#-step-3-add-custom-delegate-for-employee-type)
 
-### [Guided Project: List (ToDoListApp)]()
+### [Guided Project: List (ToDoListApp)](https://github.com/c4arl0s/GuidedProjectList#guided-project-list-todolistapp---content-1)
 
 1. [x] [1. Project Planning](https://github.com/c4arl0s/ToDoListApp#1-project-planning)
     - [x] [Features](https://github.com/c4arl0s/ToDoListApp#--features)
@@ -687,9 +681,9 @@
 13. [x] [13. Set constraints for dueDateLabel and its location](https://github.com/c4arl0s/GuidedProjectList#13-set-constraints-for-duedatelabel-and-its-layout)
 14. [x] [14. Hide text view when switch is off](https://github.com/c4arl0s/GuidedProjectList#14-hide-text-view-when-switch-is-off)
 
-# 6. [Working with the Web]()
+# 6. [Working with the Web](https://github.com/c4arl0s/AppDevelopmentWithSwift#6-working-with-the-web)
 
-### [Closures]()
+### [Closures](https://github.com/c4arl0s/Closures#closures)
 
 1. [x] [1. Syntax](https://github.com/c4arl0s/Closures#1-syntax)
 2. [x] [2. Passing Closures as Arguments](https://github.com/c4arl0s/Closures#2-passing-closures-as-arguments)
@@ -701,13 +695,13 @@
    * [x] [Reduce](https://github.com/c4arl0s/Closures#-reduce)
 6. [x] [6. Closures Capture Their Environment](https://github.com/c4arl0s/Closures#6-closures-capture-their-environment)
 
-### [Extensions](https://github.com/c4arl0s/Extensions#go-back-to-content)
+### [Extensions](https://github.com/c4arl0s/Extensions#extensions)
 
 1. [x] [1. Adding Computed Properties](https://github.com/c4arl0s/Extensions#1-adding-computed-properties)
 2. [x] [2. Adding instance or Type Methods](https://github.com/c4arl0s/Extensions#2-adding-instance-or-type-methods)
 3. [x] [3. Organizing Code](https://github.com/c4arl0s/Extensions#3-organizing-code)
 
-### [Practical Animation]()
+### [Practical Animation](https://github.com/c4arl0s/PracticalAnimation#practical-animation)
 
 1. [x] [1. Why Animate?](https://github.com/c4arl0s/PracticalAnimation#1-why-animate)
 2. [x] [2. Direct the User's Attention](https://github.com/c4arl0s/PracticalAnimation#2-direct-the-users-attention)
@@ -732,7 +726,7 @@
     - [x] [Step 2: Create the Animation](https://github.com/c4arl0s/PracticalAnimation#--step-2-create-the-animation)
     - [x] [Step 3: Implement the animation](https://github.com/c4arl0s/PracticalAnimation#--step-3-implement-the-animation)
 
-### [Working With The Web HTTP and URL Session]()
+### [Working With The Web HTTP and URL Session](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#working-with-the-web-http-and-url-session)
 
 1. [x] [1. The Basics](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#1-the-basics)
 2. [x] [2. Protocol](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#2-protocol)
@@ -757,7 +751,7 @@
     * [x] [Step 2: Pulling data from the web](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#-step-2-pulling-data-from-the-web)
  
 
-### [Working With The Web Decoding JSON]()
+### [Working With The Web Decoding JSON](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#working-with-the-web-decoding-json)
 
 1. [x] [1. JSON basics](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#1-json-bacics)
 2. [x] [2. Decoding into Swift Types](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#2-decoding-into-swift-types)
@@ -780,7 +774,7 @@
     * [x] [Step 3: Decode the JSON](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#-step-3-decode-the-json)
     * [x] [Step 4: Call your function](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#-step-4-call-your-function)
  
-### [Working With The Web Concurrency]()
+### [Working With The Web Concurrency](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#working-with-the-web-concurrency)
 
 1. [x] [1. Get Started](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#1-get-started)
 2. [x] [2. Import Your Playground Code](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#2-import-your-playground-code)
@@ -801,7 +795,7 @@
     * [x] [Step 4: Display images in the Cells](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#-step-4-display-images-in-the-cells)
     * [x] [Step 5: Cache URL Results](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#-step-5-cache-url-results)
 
-### [Restaurant App]()
+### [Restaurant App](https://github.com/c4arl0s/RestaurantApp#restaurant-app---content)
 
 1. [x] [1. Part One: Server Details and Project Setup](https://github.com/c4arl0s/RestaurantApp#1-part-one-server-details-and-project-setup)
    * [x] [Run the Server](https://github.com/c4arl0s/RestaurantApp#-run-the-server)
@@ -875,9 +869,9 @@
 15. [x] [15. About the UI Restoration Process (Apple Documentation Article)](https://github.com/c4arl0s/RestaurantApp#15-about-the-ui-restoration-process-apple-documentation-article)
 16. [x] [16. About the UI Restoration Process (Apple Documentation Article)](https://github.com/c4arl0s/RestaurantApp#16-about-the-ui-restoration-process-apple-documentation-article) 
 
-# 7. [Prototyping and Project Planning]()
+# 7. [Prototyping and Project Planning](https://github.com/c4arl0s/AppDevelopmentWithSwift#7-prototyping-and-project-planning)
 
-### [App Personality]()
+### [App Personality](https://github.com/c4arl0s/AppPersonality#app-personality)
 
 1. [x] [1. App Icons](https://github.com/c4arl0s/PrototypingAndProjectPlanning#1-app-icons)
     - [x] [Best Practices for App Icon Design](https://github.com/c4arl0s/PrototypingAndProjectPlanning#--best-practices-for-app-icon-design)
@@ -900,7 +894,7 @@
     - [x] [Step 1: Examine your favorite Apps](https://github.com/c4arl0s/PrototypingAndProjectPlanning#--step-1-examine-your-favorite-apps)
     - [x] [Step 2: Identify what makes them special](https://github.com/c4arl0s/PrototypingAndProjectPlanning#--step-2-identify-what-makes-them-special)
 
-### [The Design Cycle]()
+### [The Design Cycle](https://github.com/c4arl0s/TheDesignCycle#the-design-cycle)
 
 1. [x] [1. Brainstorm](https://github.com/c4arl0s/TheDesignCycle#1-brainstorm)
 2. [x] [2. Plan](https://github.com/c4arl0s/TheDesignCycle#2-plan)
@@ -921,7 +915,7 @@
     - [x] [Step 3: Create a feature set](https://github.com/c4arl0s/TheDesignCycle#--step-3-create-a-feature-set)
     - [x] [Step 4: Create Visuals and talk to users](https://github.com/c4arl0s/TheDesignCycle#--step-4-create-visuals-and-talk-to-users)
 
-### [Project Planning]()
+### [Project Planning](https://github.com/c4arl0s/ProjectPlanning#project-planning)
 
 1. [x] [1. Building an Interface](https://github.com/c4arl0s/ProjectPlanning#1-building-an-interface)
 2. [x] [2. Do your research](https://github.com/c4arl0s/ProjectPlanning#2-do-your-research)
@@ -932,4 +926,4 @@
 7. [x] [7. Build your project Plan](https://github.com/c4arl0s/ProjectPlanning#7-build-your-project-plan)
 8. [x] [8. Wrapup](https://github.com/c4arl0s/ProjectPlanning#8-wrapup)
 
-# 8. [Core Graphics]()
+# 8. [Core Graphics](https://github.com/c4arl0s/AppDevelopmentWithSwift#8-core-graphics)
