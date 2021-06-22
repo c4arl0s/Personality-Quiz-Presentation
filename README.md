@@ -260,6 +260,8 @@
 
 ### [Calculator - Lab](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#lab-calculator)
 
+Simple User Interface calculator that maintains its layout on all device sizes.
+
 1. [x] [Step 1](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-1)
 2. [x] [Step 2](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-2)
 3. [x] [Step 3](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-3)
@@ -278,6 +280,10 @@
 
 
 ### [Guided Project : Apple Pie](https://github.com/c4arl0s/ApplePieApp#guided-project--apple-pie)
+
+### [Apple Pie App](https://github.com/c4arl0s/ApplePieApp#1-build-the-interface)
+
+The app is a game that is going to reflect part of your personality, it has answers that maybe make no sense but it is an actual game.
 
 1. [x] [1. Build the Interface](https://github.com/c4arl0s/ApplePieApp#1-build-the-interface)
 2. [x] [2. Layout in Storyboard](https://github.com/c4arl0s/ApplePieApp#2-layout-in-storyboard)
@@ -398,6 +404,8 @@
     - [X] [Step 3: Other useful Features](https://github.com/c4arl0s/BuildingSimpleWorkflows#--step-3-other-useful-features)
 
 ### [Personality Quiz](https://github.com/c4arl0s/PersonalityQuiz#personality-quiz---content-1)
+
+The app is a game that is going to reflect part of your personality, it has answers that maybe make no sense but it is an actual game.
 
 1. [x] [1. Project Planning](https://github.com/c4arl0s/PersonalityQuiz#project-one---project-planning)
     - [x] [Features](https://github.com/c4arl0s/PersonalityQuiz#1-features)
@@ -634,6 +642,8 @@
 
 ### [Hotel Manzana App](https://github.com/c4arl0s/BuildingComplexInputScreens#1-model)
 
+The app allows you to register guests when they arrive at the hotel.
+
 1. [x] [1. Model](https://github.com/c4arl0s/BuildingComplexInputScreens#1-model)
 2. [x] [2. Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#2-input-screens)
 3. [x] [3. Collect Strings](https://github.com/c4arl0s/BuildingComplexInputScreens#3-collect-strings)
@@ -655,6 +665,8 @@
     * [x] [Step 3: Add Custom Delegate For Employee Type](https://github.com/c4arl0s/BuildingComplexInputScreens#-step-3-add-custom-delegate-for-employee-type)
 
 ### [Guided Project: List (ToDoListApp)](https://github.com/c4arl0s/GuidedProjectList#guided-project-list-todolistapp---content-1)
+
+Display, add, delete and save a list of tasks.
 
 1. [x] [1. Project Planning](https://github.com/c4arl0s/ToDoListApp#1-project-planning)
     - [x] [Features](https://github.com/c4arl0s/ToDoListApp#--features)
@@ -817,6 +829,8 @@
     * [x] [Step 5: Cache URL Results](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#-step-5-cache-url-results)
 
 ### [Restaurant App](https://github.com/c4arl0s/RestaurantApp#restaurant-app---content)
+
+Interactive menu that displays offerings, adds orders and sent order request using a local service.
 
 1. [x] [1. Part One: Server Details and Project Setup](https://github.com/c4arl0s/RestaurantApp#1-part-one-server-details-and-project-setup)
    * [x] [Run the Server](https://github.com/c4arl0s/RestaurantApp#-run-the-server)
