@@ -262,6 +262,8 @@
 
 Simple User Interface calculator that maintains its layout on all device sizes.
 
+![Screen Recording 2021-06-24 at 12 18 27 2021-06-24 12_19_57](https://user-images.githubusercontent.com/24994818/123331637-28250680-d505-11eb-93bf-1d6b71180054.gif)
+
 1. [x] [Step 1](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-1)
 2. [x] [Step 2](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-2)
 3. [x] [Step 3](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-3)
@@ -283,7 +285,9 @@ Simple User Interface calculator that maintains its layout on all device sizes.
 
 ### [Apple Pie App](https://github.com/c4arl0s/ApplePieApp#1-build-the-interface)
 
-The app is a game that is going to reflect part of your personality, it has answers that maybe make no sense but it is an actual game.
+Word guessing game.
+
+![82612426-70e2f100-9b88-11ea-9535-5a95a44c0823](https://user-images.githubusercontent.com/24994818/123331489-f875fe80-d504-11eb-9542-3cbd659f4f9d.gif)
 
 1. [x] [1. Build the Interface](https://github.com/c4arl0s/ApplePieApp#1-build-the-interface)
 2. [x] [2. Layout in Storyboard](https://github.com/c4arl0s/ApplePieApp#2-layout-in-storyboard)
@@ -406,6 +410,8 @@ The app is a game that is going to reflect part of your personality, it has answ
 ### [Personality Quiz](https://github.com/c4arl0s/PersonalityQuiz#personality-quiz---content-1)
 
 The app is a game that is going to reflect part of your personality, it has answers that maybe make no sense but it is an actual game.
+
+![Screen Recording 2021-06-26 at 13 19 05 2021-06-26 13_21_42](https://user-images.githubusercontent.com/24994818/123522191-76f7ab00-d681-11eb-9728-5028ca4da22b.gif)
 
 1. [x] [1. Project Planning](https://github.com/c4arl0s/PersonalityQuiz#project-one---project-planning)
     - [x] [Features](https://github.com/c4arl0s/PersonalityQuiz#1-features)
@@ -644,6 +650,8 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 The app allows you to register guests when they arrive at the hotel.
 
+![77213330-15d14700-6ad0-11ea-8851-0e4b1314c298](https://user-images.githubusercontent.com/24994818/123331346-cc5a7d80-d504-11eb-996c-8b076d137961.gif)
+
 1. [x] [1. Model](https://github.com/c4arl0s/BuildingComplexInputScreens#1-model)
 2. [x] [2. Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#2-input-screens)
 3. [x] [3. Collect Strings](https://github.com/c4arl0s/BuildingComplexInputScreens#3-collect-strings)
@@ -667,6 +675,8 @@ The app allows you to register guests when they arrive at the hotel.
 ### [Guided Project: List (ToDoListApp)](https://github.com/c4arl0s/GuidedProjectList#guided-project-list-todolistapp---content-1)
 
 Display, add, delete and save a list of tasks.
+
+![95247262-43b37a00-07db-11eb-90b3-dc65420597bb](https://user-images.githubusercontent.com/24994818/123330039-1d697200-d503-11eb-84d3-7d45f50013eb.gif)
 
 1. [x] [1. Project Planning](https://github.com/c4arl0s/ToDoListApp#1-project-planning)
     - [x] [Features](https://github.com/c4arl0s/ToDoListApp#--features)
@@ -831,6 +841,8 @@ Display, add, delete and save a list of tasks.
 ### [Restaurant App](https://github.com/c4arl0s/RestaurantApp#restaurant-app---content)
 
 Interactive menu that displays offerings, adds orders and sent order request using a local service.
+
+![116438019-a883ff80-a813-11eb-80c9-d0a4582a26f5](https://user-images.githubusercontent.com/24994818/123330276-6d483900-d503-11eb-8687-7a94869e3f78.gif)
 
 1. [x] [1. Part One: Server Details and Project Setup](https://github.com/c4arl0s/RestaurantApp#1-part-one-server-details-and-project-setup)
    * [x] [Run the Server](https://github.com/c4arl0s/RestaurantApp#-run-the-server)
