@@ -650,7 +650,9 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 The app allows you to register guests when they arrive at the hotel.
 
-![77213330-15d14700-6ad0-11ea-8851-0e4b1314c298](https://user-images.githubusercontent.com/24994818/123331346-cc5a7d80-d504-11eb-996c-8b076d137961.gif)
+| Notes                                                                                                                         | Code                                                                                                                          | Diagrams                                                                                                                      | xproj                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124358517-4619f780-dbe6-11eb-9e90-f25374ad192b.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124358579-942efb00-dbe6-11eb-8683-6586b4e55631.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124358634-cfc9c500-dbe6-11eb-9f65-f3b69c82239d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124358680-0273bd80-dbe7-11eb-8a63-00c2d60d3d8f.gif" width="250"> |
 
 1. [x] [1. Model](https://github.com/c4arl0s/BuildingComplexInputScreens#1-model)
 2. [x] [2. Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens#2-input-screens)
