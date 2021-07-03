@@ -842,7 +842,9 @@ Display, add, delete and save a list of tasks.
 
 Interactive menu that displays offerings, adds orders and sent order request using a local service.
 
-![116438019-a883ff80-a813-11eb-80c9-d0a4582a26f5](https://user-images.githubusercontent.com/24994818/123330276-6d483900-d503-11eb-8687-7a94869e3f78.gif)
+| Notes                                                                                                                         | Code                                                                                                                          | Diagrams                                                                                                                      | xproj                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124355720-490deb80-dbd8-11eb-8bdb-87b6e17985fe.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124355866-fc76e000-dbd8-11eb-8e04-e22031676191.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124356005-858e1700-dbd9-11eb-8f42-6813ab5b84d8.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124356021-9fc7f500-dbd9-11eb-9bfb-d6cf95fea7d0.gif" width="250"> |
 
 1. [x] [1. Part One: Server Details and Project Setup](https://github.com/c4arl0s/RestaurantApp#1-part-one-server-details-and-project-setup)
    * [x] [Run the Server](https://github.com/c4arl0s/RestaurantApp#-run-the-server)
