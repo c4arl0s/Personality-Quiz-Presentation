@@ -676,7 +676,9 @@ The app allows you to register guests when they arrive at the hotel.
 
 Display, add, delete and save a list of tasks.
 
-![95247262-43b37a00-07db-11eb-90b3-dc65420597bb](https://user-images.githubusercontent.com/24994818/123330039-1d697200-d503-11eb-84d3-7d45f50013eb.gif)
+| Notes                                                                                                                         | Code                                                                                                                          | Diagrams                                                                                                                      | xproj                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124356297-e0743e00-dbda-11eb-8b24-3bdc502de604.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124356344-1fa28f00-dbdb-11eb-84f2-4ca9de8eacb0.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124356385-67c1b180-dbdb-11eb-9f0d-0acc35cbb03f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124356432-9475c900-dbdb-11eb-86a3-ac6c41a6f0d8.gif" width="250"> |
 
 1. [x] [1. Project Planning](https://github.com/c4arl0s/ToDoListApp#1-project-planning)
     - [x] [Features](https://github.com/c4arl0s/ToDoListApp#--features)
