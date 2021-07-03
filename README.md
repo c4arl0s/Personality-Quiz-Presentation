@@ -415,7 +415,9 @@ Word guessing game.
 
 The app is a game that is going to reflect part of your personality, it has answers that maybe make no sense but it is an actual game.
 
-![Screen Recording 2021-06-26 at 13 19 05 2021-06-26 13_21_42](https://user-images.githubusercontent.com/24994818/123522191-76f7ab00-d681-11eb-9728-5028ca4da22b.gif)
+| Notes                                                                                                                         |                                                                                                                               |                                                                                                                               | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124360461-90ec3d00-dbef-11eb-9052-b4bacd949938.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124360694-c180a680-dbf0-11eb-8eb1-0a409d0677fa.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124360750-07d60580-dbf1-11eb-95b7-c049f1b767f0.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124360796-55eb0900-dbf1-11eb-936d-b531a737e38b.gif" width="250"> |
 
 1. [x] [1. Project Planning](https://github.com/c4arl0s/PersonalityQuiz#project-one---project-planning)
     - [x] [Features](https://github.com/c4arl0s/PersonalityQuiz#1-features)
