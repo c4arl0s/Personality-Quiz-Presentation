@@ -287,7 +287,9 @@ Simple User Interface calculator that maintains its layout on all device sizes.
 
 Word guessing game.
 
-![82612426-70e2f100-9b88-11ea-9535-5a95a44c0823](https://user-images.githubusercontent.com/24994818/123331489-f875fe80-d504-11eb-9542-3cbd659f4f9d.gif)
+| Notes                                                                                                                         | Code                                                                                                                          | Diagrams                                                                                                                      | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124359005-a0b45300-dbe8-11eb-8c14-112d6d1d4828.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124358579-942efb00-dbe6-11eb-8683-6586b4e55631.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359070-eb35cf80-dbe8-11eb-9f3a-21ad67d3363d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359095-0accf800-dbe9-11eb-9374-a90c493575d7.gif" width="250"> |
 
 1. [x] [1. Build the Interface](https://github.com/c4arl0s/ApplePieApp#1-build-the-interface)
 2. [x] [2. Layout in Storyboard](https://github.com/c4arl0s/ApplePieApp#2-layout-in-storyboard)
