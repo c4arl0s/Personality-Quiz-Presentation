@@ -262,7 +262,9 @@
 
 Simple User Interface calculator that maintains its layout on all device sizes.
 
-![Screen Recording 2021-06-24 at 12 18 27 2021-06-24 12_19_57](https://user-images.githubusercontent.com/24994818/123331637-28250680-d505-11eb-93bf-1d6b71180054.gif)
+| Notes                                                                                                                         | Notes                                                                                                                         | Notes                                                                                                                         | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124360120-9a74a580-dbed-11eb-9607-3b270de2af5f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124360193-1cfd6500-dbee-11eb-927a-77abbd549cae.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124360213-330b2580-dbee-11eb-8ed0-20c5b5c28be4.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124360172-fdfed300-dbed-11eb-8e8d-0952188cec0c.gif" width="250"> |
 
 1. [x] [Step 1](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-1)
 2. [x] [Step 2](https://github.com/c4arl0s/CalculatorView_VerticalHorizontalStackView#step-2)
