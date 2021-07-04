@@ -4,6 +4,10 @@
 
 ### [Introduction To Swift And Playgrounds](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#introduction-to-swift-and-playgrounds)
 
+| Notes                                                                                                                         |                                                                                                                               |                                                                                                                               | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124365959-77f48380-dc11-11eb-82c7-216fb6691047.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124365977-a7a38b80-dc11-11eb-8cbe-46453721bf25.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124366005-de79a180-dc11-11eb-8042-4601c68b11a2.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124366020-ffda8d80-dc11-11eb-9383-3dd9deebbbbe.png" width="250"> |
+
 1. [x] [1. A little History](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#1-a-little-history)
 2. [x] [2. A modern language](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#2-a-modern-language)
 3. [x] [3. A safe language](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#3-a-safe-language)
@@ -13,6 +17,10 @@
 7. [x] [7. Playground](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#7-playground)
  
 ### [Constants, Variables, And Data Types](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#constants-variables-and-data-types)
+
+| Notes                                                                                                                         |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124366929-ef79e100-dc18-11eb-9ca3-6fb9023a6888.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124366945-0d474600-dc19-11eb-82a3-9f89ebc2301b.png" width="250"> |
 
 1. [x] [1. Constants](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#1-constants)
 2. [x] [2. Variables](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#2-variables)
@@ -26,6 +34,10 @@
 
 ### [Operators](https://github.com/c4arl0s/Operators#operators)
 
+| Notes                                                                                                                         |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367012-85157080-dc19-11eb-8fa2-af6b727426ae.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367048-b4c47880-dc19-11eb-8e8d-bbb218f73f1e.png" width="250"> |
+
 1. [x] [1. Assign a value](https://github.com/c4arl0s/Operators#1-assign-a-value)
 2. [x] [2. Basic Arithmetic](https://github.com/c4arl0s/Operators#2-basic-arithmetic)
 3. [x] [3. Compound Assignment](https://github.com/c4arl0s/Operators#3-compound-assignment)
@@ -33,6 +45,10 @@
 5. [x] [5. Numeric type conversion](https://github.com/c4arl0s/Operators#5-numeric-type-conversion)
 
 ### [ControlFlow](https://github.com/c4arl0s/ControlFlow#controlflow)
+
+| Notes                                                                                                                         |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367098-0cfb7a80-dc1a-11eb-8dc8-737795e51737.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367124-361c0b00-dc1a-11eb-9517-7d0cd710cabf.png" width="250"> |
 
 1. [x] [1. Logical Operators](https://github.com/c4arl0s/ControlFlow#1-logical-operators)
 2. [x] [2. If statements](https://github.com/c4arl0s/ControlFlow#2-if-statements)
@@ -43,12 +59,20 @@
 
 ### [Xcode](https://github.com/c4arl0s/Xcode#xcode)
 
+| Notes                                                                                                                         |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/111870725-f9b6ee80-894b-11eb-94e5-d238ce11dbf9.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/111870934-1f90c300-894d-11eb-9e3c-4ffe158cfd99.png" width="250"> |
+
 1. [x] [1. Xcode Interface](https://github.com/c4arl0s/Xcode#1-xcode-interface)
 2. [x] [2. Xcode file types](https://github.com/c4arl0s/Xcode#2-xcode-file-types)
 3. [x] [3. Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
 4. [x] [4. Xcode Preferences](https://github.com/c4arl0s/Xcode#4-xcode-preferences)
 
 ### [Building, Running And Debugging An App](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#building-running-and-debugging-an-app)
+
+| Notes                                                                                                                         |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/111903876-c5a20300-8a09-11eb-90f0-4b3a71fcef80.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/111913101-34935200-8a32-11eb-899f-a82d21e92e01.png" width="250"> |
 
 1. [x] [1. Building and Running](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#1-building-and-running)
 2. [x] [2. Using a Personal Device](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#2-using-a-personal-device)
@@ -64,6 +88,10 @@
 
 ### [Documentation](https://github.com/c4arl0s/Documentation#documentation)
 
+| At a glance                                                                                                                   |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/111922861-ff065d00-8a61-11eb-9554-42127917ac61.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/111922773-5fe16580-8a61-11eb-8662-4fc9387c892c.png" width="250"> |
+
 1. [x] [1. Documentation Browser](https://github.com/c4arl0s/Documentation#1-documentation-browser)
 2. [x] [2. Sample Code and Guides](https://github.com/c4arl0s/Documentation#2-sample-code-and-guides)
 3. [x] [3. Lab - Use Documentation](https://github.com/c4arl0s/Documentation#3-lab---use-documentation)
@@ -71,6 +99,10 @@
    - [x] [Step 2: Use Documentation to Learn about the UIView Class](https://github.com/c4arl0s/Documentation#--step-2-use-documentation-to-learn-about-the-uiview-class)
 
 ### [Interface Builder Basics](https://github.com/c4arl0s/InterfaceBuilderBasics#interface-builder-basics)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/111926208-87402e80-8a71-11eb-8071-d1278466f9ee.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/111940168-ad76c600-8a93-11eb-8992-e88908ee46f3.png" width="250"> |
 
 1. [x] [1. Storyboards](https://github.com/c4arl0s/InterfaceBuilderBasics#1-storyboards)
 2. [x] [2. Interface Builder Layout](https://github.com/c4arl0s/InterfaceBuilderBasics#2-interface-builder-layout)
@@ -85,6 +117,10 @@
 
 ### [Guided Project Light](https://github.com/c4arl0s/GuidedProjectLight#guided-project-light)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/112037506-662a1d00-8b07-11eb-8e6c-ed579b3f195f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/112039538-c28e3c00-8b09-11eb-9341-0633080da43d.gif" width="250"> |
+
 1. [x] [Part 1: Create a button and an Action](https://github.com/c4arl0s/GuidedProjectLight#1-part-1-create-a-button-and-an-action)
 2. [x] [Part 2: Change the background](https://github.com/c4arl0s/GuidedProjectLight#2-part-2-change-the-background)
 3. [x] [Part 3: Update the button text](https://github.com/c4arl0s/GuidedProjectLight#3-part-3-update-the-button-text)
@@ -94,6 +130,10 @@
 # 2. [Introduction to UIKit](https://github.com/c4arl0s/AppDevelopmentWithSwift#2-introduction-to-uikit)
 
 ### [Strings](https://github.com/c4arl0s/Strings#strings)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367547-bc861c00-dc1d-11eb-9cdf-3cb36d785f77.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367575-e8a19d00-dc1d-11eb-9dc8-d4d600c0efda.png" width="250"> |
 
 1. [x] [1. String](https://github.com/c4arl0s/Strings#1-string)
 2. [x] [2. multiple lines](https://github.com/c4arl0s/Strings#2-string---multiple-lines)
@@ -115,6 +155,10 @@
 
 ### [Functions](https://github.com/c4arl0s/Functions#functions)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367604-564dc900-dc1e-11eb-81aa-d7a73fe78c84.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367624-7ed5c300-dc1e-11eb-9b1a-9a1ffe5eb9f3.png" width="250"> |
+
 1. [x] [1. Defining a Function](https://github.com/c4arl0s/Functions#1-defining-a-function)
 2. [x] [2. Parameters](https://github.com/c4arl0s/Functions#2-parameters)
 3. [x] [3. Argument Labels](https://github.com/c4arl0s/Functions#3-argument-labels)
@@ -122,6 +166,10 @@
 5. [x] [5. Return Values](https://github.com/c4arl0s/Functions#5-return-values)
 
 ### [Structures](https://github.com/c4arl0s/Structures#structures)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367687-3e2a7980-dc1f-11eb-9dc4-ef32b49b3baa.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367715-6d40eb00-dc1f-11eb-9e7c-cbbc75dfbd06.png" width="250"> |
 
 1. [x] [1. Structure definition](https://github.com/c4arl0s/Structures#1-structure-definition)
 2. [x] [2. Instances](https://github.com/c4arl0s/Structures#2-instances)
@@ -140,6 +188,10 @@
 
 ### [Classes and Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#classes-and-inheritance)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367799-0a038880-dc20-11eb-932a-096e9a6b3b0e.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367825-61095d80-dc20-11eb-8d53-27100930b051.png" width="250"> |
+
 1. [x] [1. Classes Definition](https://github.com/c4arl0s/ClassesAndInheritance#1-classes-definition)
 2. [x] [2. Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#2-inheritance)
 3. [x] [3. Defining a Base Class](https://github.com/c4arl0s/ClassesAndInheritance#3-defining-a-base-class)
@@ -154,6 +206,10 @@
 
 ### [Collections](https://github.com/c4arl0s/Collections#collections)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367825-61095d80-dc20-11eb-8d53-27100930b051.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367918-45528700-dc21-11eb-81fe-624d9b174a3e.png" width="250"> |
+
 1. [x] [1. Arrays](https://github.com/c4arl0s/Collections#1-arrays)
 2. [x] [2. Array Types](https://github.com/c4arl0s/Collections#2-array-types)
 3. [x] [3. Working with Arrays](https://github.com/c4arl0s/Collections#3-working-with-arrays)
@@ -162,6 +218,10 @@
 6. [x] [6. Accessing a Dictionary](https://github.com/c4arl0s/Collections#6-accessing-a-dictionary)
 
 ### [Use The Build-In Swift collection Types](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#6-the-build-in-swift-collection-types)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124367962-d1fd4500-dc21-11eb-9fd8-6574c0e0964b.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124367993-36200900-dc22-11eb-885c-d3f201f5bd3c.png" width="250"> |
 
 1. [x] [1. The Array](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#1-the-array)
 2. [x] [2. Accessing the Array](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#2-accessing-the-array)
@@ -181,11 +241,19 @@
 
 ### [Loops](https://github.com/c4arl0s/Loops#loops)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124368110-45ec1d00-dc23-11eb-8e42-614746165a82.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124368116-5b614700-dc23-11eb-875c-c928b9ade802.png" width="250"> |
+
 1. [x] [1. For Loops](https://github.com/c4arl0s/Loops#1-for-loops)
 2. [x] [2. While Loops](https://github.com/c4arl0s/Loops#2-while-loops)
 3. [x] [3. Control Transfer Statement](https://github.com/c4arl0s/Loops#3-control-transfer-statement)
 
 ### [Introduction To UIKit](https://github.com/c4arl0s/IntroductionToUIKit#introduction-to-uikit)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124368145-e80c0500-dc23-11eb-87ca-5c1343e2b230.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124368148-fbb76b80-dc23-11eb-9ec6-44a4de86b7f6.png" width="250"> |
 
 1. [x] [1. Common System Views](https://github.com/c4arl0s/IntroductionToUIKit#1-common-system-views)
 2. [x] [2. Label](https://github.com/c4arl0s/IntroductionToUIKit#2-label)
@@ -212,6 +280,10 @@
 
 ### [Displaying Data](https://github.com/c4arl0s/DisplayingData#displaying-data)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/109397210-45511c00-78fb-11eb-9d70-09a98082e5c1.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109398227-3a00ef00-7901-11eb-91a6-f481ee80fabc.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109397888-decdfd00-78fe-11eb-97d9-1b45e5396b52.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109398277-8c421000-7901-11eb-94d6-8368a4dee2b9.png" width="250"> |
+
 1. [x] [1. Planning the App](https://github.com/c4arl0s/DisplayingData#1-planning-the-app)
 2. [x] [2. Create the Project](https://github.com/c4arl0s/DisplayingData#2-create-the-project)
 3. [x] [3. Enter your information](https://github.com/c4arl0s/DisplayingData#3-enter-your-information)
@@ -228,6 +300,10 @@
 
 ### [Controls In Action](https://github.com/c4arl0s/ControlsInAction#controls-in-action)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/109430207-c4128b80-79c5-11eb-83a4-939cf495cecb.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109431439-47cf7680-79cc-11eb-9456-7eba3b261655.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109431765-caa50100-79cd-11eb-97f5-56ad412f33cd.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109437373-2c736400-79ea-11eb-8a96-121e4be72b25.gif" width="250"> |
+
 1. [x] [1. Buttons](https://github.com/c4arl0s/ControlsInAction#1-buttons)
 2. [x] [2. Switches](https://github.com/c4arl0s/ControlsInAction#2-switches)
 3. [x] [3. Sliders](https://github.com/c4arl0s/ControlsInAction#3-sliders)
@@ -241,6 +317,10 @@
     - [x] [Step 3: Add Code for your actions](https://github.com/c4arl0s/ControlsInAction#--step-3-add-code-for-your-actions)
 
 ### [AutoLayout And Stack Views](https://github.com/c4arl0s/AutolayoutAndStackViews#autolayout-and-stack-views)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/74766329-c1c21100-524a-11ea-91a8-173e27212e33.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/74766630-14033200-524b-11ea-9e84-b8a5216812e5.png" width="250"> |
 
 1. [x] [1. Why Autolayout](https://github.com/c4arl0s/AutolayoutAndStackViews#1-why-autolayout)
 2. [x] [2. Create Alignment Constraints](https://github.com/c4arl0s/AutolayoutAndStackViews#2-create-alignment-constraints)
@@ -313,6 +393,10 @@ Word guessing game.
 
 ### [Optionals](https://github.com/c4arl0s/Optionals#optionals---content)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124368421-92852780-dc26-11eb-92b1-44e05d32f8dd.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124368499-37a00000-dc27-11eb-9d05-e5ad551d701b.png" width="250"> |
+
 1. [x] [1. Optionals](https://github.com/c4arl0s/Optionals#1-optionals)
 	* [x] [NIL](https://github.com/c4arl0s/Optionals#-nil)
 	* [x] [Specifying the type of an Optional](https://github.com/c4arl0s/Optionals#-specifying-the-type-of-an-optional)
@@ -324,19 +408,35 @@ Word guessing game.
 
 ### [2. Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection#2-type-casting-and-inspection)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124368541-9a919700-dc27-11eb-98b3-4e9cd5aea817.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124368546-abdaa380-dc27-11eb-98de-8fdebc0c243a.png" width="250"> |
+
 1. [x] [1. Type Casting](https://github.com/c4arl0s/TypeCastingAndInspection#1-type-casting)
 2. [x] [2. Any](https://github.com/c4arl0s/TypeCastingAndInspection#2-any)
 
 ### 3. [Guard](https://github.com/c4arl0s/Guard#3-guard)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124368612-4e932200-dc28-11eb-9679-d282c82d1351.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124368621-636fb580-dc28-11eb-8200-d1527da854cb.png" width="250"> |
+
 1. [x] [1. Guard with optionals](https://github.com/c4arl0s/Guard#1-guard-with-optionals)
 
 ### 4. [Constant and Variable Scope](https://github.com/c4arl0s/ConstantAndVariableScope#4-constant-and-variable-scope)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124368660-bd707b00-dc28-11eb-892a-20ee2eb7be6f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124368668-d842ef80-dc28-11eb-8c0f-652b33381f21.png" width="250"> |
 
 1. [x] [1. Variable Shadowing](https://github.com/c4arl0s/ConstantAndVariableScope#-variable-shadowing)
 2. [x] [2. Shadowing and Initializers](https://github.com/c4arl0s/ConstantAndVariableScope#-shadowing-and-initializers)
 
 ### [Enumerations](https://github.com/c4arl0s/Enumerations#enumerations)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124368705-3a035980-dc29-11eb-8768-8287f3debbb6.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124368715-57d0be80-dc29-11eb-9527-b1aa71625323.png" width="250"> |
 
 1. [x] [1. Control Flow](https://github.com/c4arl0s/Enumerations#1-control-flow)
 2. [x] [2. Type Safety Benefits](https://github.com/c4arl0s/Enumerations#2-type-safety-benefits)
@@ -345,6 +445,10 @@ Word guessing game.
 5. [x] [5. How to combine the use of Associated Values and Row values](https://github.com/c4arl0s/Enumerations#5--how-to-combine-the-use-of-associated-values-and-row-values)
 
 ### [Segues and Navigation Controllers](https://github.com/c4arl0s/SeguesAndNavigationControllers#segues-and-navigation-controllers)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/83583921-45a6bd00-a50b-11ea-9371-fc481f40b779.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/83584613-480a1680-a50d-11ea-9a0d-ba3a185ad6d7.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/83816968-3b123200-a689-11ea-87a0-9b21411aac91.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/84209784-a5a5e200-aa7c-11ea-8f5f-99b64687d6fc.gif" width="250"> |
 
 1. [x] [1. Segues](https://github.com/c4arl0s/SeguesAndNavigationControllers#1-segues)
 2. [x] [2. Create Triggered Segues](https://github.com/c4arl0s/SeguesAndNavigationControllers#2-create-triggered-segues)
@@ -362,6 +466,10 @@ Word guessing game.
 
 ### [Tab Bar Controllers](https://github.com/c4arl0s/TabBarControllers#tab-bar-controllers)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/84449445-1252e500-ac13-11ea-841e-1a4d032b847a.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/84555237-7d6aed00-ace1-11ea-9b2a-b3d5aefa1725.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/84720881-e56d3d80-af44-11ea-8e9d-11fb3acadd3b.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/85085479-9c63f600-b19d-11ea-976a-346a3f1978c7.gif" width="250"> |
+
 1. [x] [1. Add Tab Bar Controller](https://github.com/c4arl0s/TabBarControllers#1-add-tab-bar-controller)
 2. [x] [2. Add Tabs](https://github.com/c4arl0s/TabBarControllers#2-add-tabs)
 3. [x] [3. Tab Bar Items](https://github.com/c4arl0s/TabBarControllers#3-tab-bar-items)
@@ -378,6 +486,10 @@ Word guessing game.
 
 ### [ViewController Life Cycle](https://github.com/c4arl0s/ViewControllerLifeCycle#viewcontroller-life-cycle)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/85837492-aff2fc00-b75d-11ea-8786-d46ad87626d9.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/86275848-87be2f80-bb99-11ea-9b54-22f6faf66de9.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/86603515-b48f8f80-bf69-11ea-96cd-47076b7c92ba.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/87365824-d6c27800-c53c-11ea-9d78-059498ccbd47.gif" width="250"> |
+
 1. [x] [1. View Controller Life Cycle](https://github.com/c4arl0s/ViewControllerLifeCycle#1-view-controller-life-cycle)
 2. [x] [2. View Did Load](https://github.com/c4arl0s/ViewControllerLifeCycle#2-view-did-load)
 3. [x] [3. View Event Management](https://github.com/c4arl0s/ViewControllerLifeCycle#3-view-event-management)
@@ -391,6 +503,10 @@ Word guessing game.
    * [x] [MiddleViewController embedded in TabBarController](https://github.com/c4arl0s/ViewControllerLifeCycle#-middleviewcontroller-embedded-in-navigationcontroller)
 
 ### [Building Simple Workflows - Content](https://github.com/c4arl0s/BuildingSimpleWorkflows#building-simple-workflows)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/113931676-5e7da000-97b8-11eb-9a9f-315800bf9117.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/113931684-62112700-97b8-11eb-8ae6-4bd6c6ec279e.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/113931697-64738100-97b8-11eb-9333-225eb76828d3.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/113931709-663d4480-97b8-11eb-9439-9f23d9cbc3c5.png" width="250"> |
 
 1. [x] [1. Designing Principles](https://github.com/c4arl0s/BuildingSimpleWorkflows#1-designing-principles)
     - [X] [Aesthetic Integrity](https://github.com/c4arl0s/BuildingSimpleWorkflows#--aesthetic-integrity)
@@ -456,6 +572,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 ### [The Augmented Reality Template](https://github.com/c4arl0s/TheAugmentedRealityTemplate#the-augmented-reality-template)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/112661119-c7a9fe80-8e1b-11eb-921d-de907c079b0d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/112661856-9aaa1b80-8e1c-11eb-9369-89b6fb4e3030.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/113484671-cd7c9100-9466-11eb-81de-80d80b83ec21.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124369051-2ce86980-dc2d-11eb-805c-5b36ca8ff639.png" width="250"> |
+
 1. [x] [1. Dissecting the Project Template](https://github.com/c4arl0s/TheAugmentedRealityTemplate#1-dissecting-the-project-template)
 2. [x] [2. Basic of ARKit and SceneKit](https://github.com/c4arl0s/TheAugmentedRealityTemplate#2-basic-of-arkit-and-scenekit)
     - [x] [ARSCNView](https://github.com/c4arl0s/TheAugmentedRealityTemplate#--arscnview)
@@ -466,6 +586,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 5. [x] [Advanced Questions](https://github.com/c4arl0s/TheAugmentedRealityTemplate#5-advanced-questions)
 
 ### [Introduction To SceneKit](https://github.com/c4arl0s/IntroductionToSceneKit#introduction-to-scenekit)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/114269535-534f8d80-99cd-11eb-865d-14d59cf27ca3.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/114323011-e8937480-9ae8-11eb-9f9d-02921c74d961.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/114754013-b7e85080-9d1d-11eb-89c4-cbe31429ac32.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/116949160-0c109180-ac47-11eb-933a-9c363da9724e.png" width="250"> |
 
 1. [x] [1. SceneKit Objects](https://github.com/c4arl0s/IntroductionToSceneKit#1-scenekit-objects)
 2. [x] [2. Creating Scenes](https://github.com/c4arl0s/IntroductionToSceneKit#2-creating-scenes)
@@ -480,6 +604,11 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 ### [Finding Flat Surfaces](https://github.com/c4arl0s/FindingFlatSurfaces#finding-flat-surfaces)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="https://user-images.githubusercontent.com/24994818/115166167-3c690500-a077-11eb-8ff3-4427c2788f6d.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/115280305-679e3380-a10d-11eb-8692-69f08ffd0bd2.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/115572645-b66ed900-a285-11eb-9f9c-74fe17da4f52.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/115948787-d70d7d80-a495-11eb-9caf-835453d06018.png" width="250"> |
+
 1. [x] [1. Feature Points](https://github.com/c4arl0s/FindingFlatSurfaces#1-feature-points)
     - [x] [Recommendations for Tracking Feature Points](https://github.com/c4arl0s/FindingFlatSurfaces#--recommendations-for-tracking-feature-points)
 2. [x] [2. Plane Detection](https://github.com/c4arl0s/FindingFlatSurfaces#2-plane-detection)
@@ -490,6 +619,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 5. [x] [5. Exercises](https://github.com/c4arl0s/FindingFlatSurfaces#5-exercises)
 
 ### [Interacting With Augmented Reality](https://github.com/c4arl0s/interactingwithaugmentedreality#interacting-with-augmented-reality)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/116311307-bb91c380-a770-11eb-8d38-32e7e21dabed.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/116311759-38bd3880-a771-11eb-8f1e-45b1c6116796.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/116311963-7a4de380-a771-11eb-8e79-1ed97eb29b80.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/116498599-b49daa80-a86f-11eb-9491-111a7d12c01b.gif" width="250"> |
 
 1. [x] [1. Project SetUp](https://github.com/c4arl0s/interactingwithaugmentedreality#1-Project-SetUp)
 2. [x] [2. Creating a Baseball Hoop](https://github.com/c4arl0s/interactingwithaugmentedreality#2-Creating-a-Baseball-Hoop)
@@ -505,6 +638,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 ### [Protocols](https://github.com/c4arl0s/Protocols#protocols)
 
+| At a glance: Notes                                                                                                           |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/77258572-01608c00-6c41-11ea-98b0-30c66ea94721.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124369316-2ad3da00-dc30-11eb-8e62-196e505670c9.png" width="250"> |
+
 1. [x] [1. Printing information with CustomStringConvertible](https://github.com/c4arl0s/Protocols#1-printing-information-with-customstringconvertible)
 2. [x] [2. Comparing information with Equatable](https://github.com/c4arl0s/Protocols#2-comparing-information-with-equatable)
 3. [x] [3. Sorting information with Comparable](https://github.com/c4arl0s/Protocols#3-sorting-information-with-comparable)
@@ -513,6 +650,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 6. [x] [6. Delegation](https://github.com/c4arl0s/Protocols#6-delegation)
 
 ### [App Anatomy And Life Cycle](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#app-anatomy-and-life-cycle---content-1)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/87534266-68c0a280-c65b-11ea-8513-48ae3742338b.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/87535389-08326500-c65d-11ea-830a-a0ca0850cef0.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/87535547-4b8cd380-c65d-11ea-9977-1fa1735a6780.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/87536893-682a0b00-c65f-11ea-9377-8dbd4667749b.gif" width="250"> |
 
 1. [x] [1. Break Down The Delegate](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#1-break-down-the-delegate)
 2. [x] [2. Did Finish Launching](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#2-did-finish-launching)
@@ -531,6 +672,10 @@ The app is a game that is going to reflect part of your personality, it has answ
     * [x] [Step 5: Test](https://github.com/c4arl0s/AppAnatomyAndLifeCycle#-step-5-test)
 
 ### [Model View Controller](https://github.com/c4arl0s/ModelViewController#model-view-controller)
+
+| At a glance: Notes                                                                                                           |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/72086729-0910c580-32cd-11ea-8f3c-22f05a3cc6fe.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109117455-a4e6d600-7707-11eb-8cd1-1753f6590037.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109345350-9eef1300-7835-11eb-82b5-91c7f0597a83.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/109361202-2a749e00-784e-11eb-8826-2346cb866c5e.gif" width="250"> |
 
 1. [x] [1. Model](https://github.com/c4arl0s/ModelViewController#1-model)
     - [x] [Communication - Model](https://github.com/c4arl0s/ModelViewController#--communication---model)
@@ -558,6 +703,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 ### [ScrollViews](https://github.com/c4arl0s/ScrollViews#scrollviews---intro)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/89710897-76143880-d94c-11ea-99df-87fe29e264d7.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/74609499-29902480-50b0-11ea-9edd-1695903531a8.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/74610782-dde37800-50bb-11ea-8060-960b47ec7e3d.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/89717161-59422a00-d979-11ea-9345-cdc545796192.gif" width="250"> |
+
 1. [x] [1. Scrollviews in Interface Builder](https://github.com/c4arl0s/ScrollViews#1-scrollviews-in-interface-builder)
     * [x] [Define Scroll View Frame](https://github.com/c4arl0s/ScrollViews#-define-scroll-view-frame)  
     * [x] [Programmatic Constraints to Content Layout Guide](https://github.com/c4arl0s/ScrollViews#-programmatic-constraints-to-content-layout-guide)
@@ -575,6 +724,10 @@ The app is a game that is going to reflect part of your personality, it has answ
     - [x] [Step 2: Implement the UIScrollViewDelegate](https://github.com/c4arl0s/ScrollViews#--step-2-implement-the-uiscrollviewdelegate)
 
 ### [Table Views](https://github.com/c4arl0s/TableViews#0-tableview---intro)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/88363364-6c33e800-cd45-11ea-8677-ed46414345be.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88364419-75728400-cd48-11ea-9fe4-cd137004d7b8.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88364620-0f3a3100-cd49-11ea-99ba-ff52e4918b07.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88365448-9dafb200-cd4b-11ea-8eab-9e7052ff0602.gif" width="250"> |
 
 0. [x] [0. TableView - Intro](https://github.com/c4arl0s/TableViews#0-tableview---intro)
 1. [x] [1. Anatomy of a Table View](https://github.com/c4arl0s/TableViews#1-anatomy-of-a-table-view)
@@ -601,6 +754,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 ### [Intermediate Table Views](https://github.com/c4arl0s/IntermediateTableViews#0-intermediate-table-views---intro)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/88404291-50573300-cd93-11ea-97e1-e8869350b96b.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88445859-1ca7f780-cdeb-11ea-87a1-ef8c4eb3ffe7.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88625963-63a61f00-d06f-11ea-80da-d77ea91fedfb.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88989120-82d7c300-d2a0-11ea-9233-da526383dcf1.gif" width="250"> |
+
 0. [x] [0. Intermediate Table Views - Intro](https://github.com/c4arl0s/IntermediateTableViews#0-intermediate-table-views---intro)
 1. [x] [1. Custom Table View Cells](https://github.com/c4arl0s/IntermediateTableViews#1-custom-table-view-cells)
 2. [x] [2. Content Hugging](https://github.com/c4arl0s/IntermediateTableViews#2-content-hugging)
@@ -624,6 +781,10 @@ The app is a game that is going to reflect part of your personality, it has answ
 
 ### [Saving Data](https://github.com/c4arl0s/SavingData#0-introduction)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124369650-99fefd80-dc33-11eb-8eab-73030f457436.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124369660-bef37080-dc33-11eb-8c74-88ddd4e13c09.png" width="250"> |
+
 0. [x] [0. Introduction](https://github.com/c4arl0s/SavingData#0-introduction)
 1. [x] [1. Encoding and Decoding with Codable](https://github.com/c4arl0s/SavingData#1-encoding-and-decoding-with-codable)
 2. [x] [2. Writing Data to a File](https://github.com/c4arl0s/SavingData#2-writing-data-to-a-file)
@@ -636,6 +797,10 @@ The app is a game that is going to reflect part of your personality, it has answ
     - [x] [Step 2: Save and Load when appropiate](https://github.com/c4arl0s/SavingData#-step-2-save-and-load-when-appropiate)
 
 ### [System View Controllers](https://github.com/c4arl0s/SystemViewControllers/blob/master/README.md#system-view-controllers---content-1)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/91410301-52863480-e80c-11ea-958c-782c8ef2d0f1.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91146594-b974e380-e67c-11ea-9105-e06d0e06c68c.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91256687-9c4c1d80-e72d-11ea-8b59-68df6323b579.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91630424-f13e9c80-e996-11ea-8457-7158af19345f.gif" width="250"> |
 
 1. [x] [1. Create the Project](https://github.com/c4arl0s/SystemViewControllers/blob/master/README.md#1-create-the-project)
 2. [x] [2. Share with the Activity View Controller](https://github.com/c4arl0s/SystemViewControllers/blob/master/README.md#2-share-with-the-activity-view-controller)
@@ -738,6 +903,10 @@ Display, add, delete and save a list of tasks.
 
 ### [Closures](https://github.com/c4arl0s/Closures#closures)
 
+| Notes                                                                                                                         |                                                                                                                               |                                                                                                                               | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124366600-98730c80-dc16-11eb-8e83-ac3c73b295aa.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124366620-b9d3f880-dc16-11eb-93eb-3a6780f2ada0.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124366684-16cfae80-dc17-11eb-852a-1ddc38f30a2f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124366703-3666d700-dc17-11eb-9332-b909545c61ce.png" width="250"> |
+
 1. [x] [1. Syntax](https://github.com/c4arl0s/Closures#1-syntax)
 2. [x] [2. Passing Closures as Arguments](https://github.com/c4arl0s/Closures#2-passing-closures-as-arguments)
 3. [x] [3. Additional Syntactic Sugar](https://github.com/c4arl0s/Closures#3-additional-syntactic-sugar)
@@ -750,11 +919,19 @@ Display, add, delete and save a list of tasks.
 
 ### [Extensions](https://github.com/c4arl0s/Extensions#extensions)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124369840-ddf30200-dc35-11eb-8601-6b4a3bbc581f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124369864-18f53580-dc36-11eb-8564-09c4e6d77966.png" width="250"> |
+
 1. [x] [1. Adding Computed Properties](https://github.com/c4arl0s/Extensions#1-adding-computed-properties)
 2. [x] [2. Adding instance or Type Methods](https://github.com/c4arl0s/Extensions#2-adding-instance-or-type-methods)
 3. [x] [3. Organizing Code](https://github.com/c4arl0s/Extensions#3-organizing-code)
 
 ### [Practical Animation](https://github.com/c4arl0s/PracticalAnimation#practical-animation)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/96161023-5ebd7280-0edc-11eb-9032-6fa11a838fe1.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/96512098-9ce0cc00-1225-11eb-9959-e1013615fcf5.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/96525687-41243c00-1241-11eb-9874-167e7aed2e89.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/97089304-71325d00-15fc-11eb-959f-4cbcac77abcb.gif" width="250"> |
 
 1. [x] [1. Why Animate?](https://github.com/c4arl0s/PracticalAnimation#1-why-animate)
 2. [x] [2. Direct the User's Attention](https://github.com/c4arl0s/PracticalAnimation#2-direct-the-users-attention)
@@ -781,6 +958,10 @@ Display, add, delete and save a list of tasks.
 
 ### [Working With The Web HTTP and URL Session](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#working-with-the-web-http-and-url-session)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124369761-00d0e680-dc35-11eb-9de0-2a3a86b6986f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124369774-29f17700-dc35-11eb-845c-50d4f740dd78.png" width="250"> |
+
 1. [x] [1. The Basics](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#1-the-basics)
 2. [x] [2. Protocol](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#2-protocol)
 3. [x] [3. Subdomain](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession#3-subdomain)
@@ -806,6 +987,10 @@ Display, add, delete and save a list of tasks.
 
 ### [Working With The Web Decoding JSON](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#working-with-the-web-decoding-json)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124369952-48587200-dc37-11eb-94c1-def0b3f6c2ca.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124369982-82297880-dc37-11eb-9baa-8a04ff8594cc.png" width="250"> |
+
 1. [x] [1. JSON basics](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#1-json-bacics)
 2. [x] [2. Decoding into Swift Types](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#2-decoding-into-swift-types)
 3. [x] [3. Converting JSON Data to Swift types](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#3-converting-json-data-to-swift-types)
@@ -828,6 +1013,10 @@ Display, add, delete and save a list of tasks.
     * [x] [Step 4: Call your function](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON#-step-4-call-your-function)
  
 ### [Working With The Web Concurrency](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#working-with-the-web-concurrency)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/101295569-0d4aa900-37e4-11eb-98aa-158768559372.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/101510667-d25d8800-393f-11eb-92c0-322b95a79d5d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/101512615-d63dda00-3940-11eb-951f-d9b151de6e2a.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/101810457-6c5b3700-3ade-11eb-82a4-1615bb06af5c.gif" width="250"> |
 
 1. [x] [1. Get Started](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#1-get-started)
 2. [x] [2. Import Your Playground Code](https://github.com/c4arl0s/WorkingWithTheWebConcurrency#2-import-your-playground-code)
