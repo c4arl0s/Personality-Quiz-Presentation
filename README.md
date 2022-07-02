@@ -31,7 +31,7 @@ The app is a game that is going to reflect part of your personality, it has answ
     - [x] [Display Questions with the Right Controls](https://github.com/c4arl0s/PersonalityQuiz#3-display-questions-with-the-right-controls)
     - [x] [Update the Buttons and Label Text](https://github.com/c4arl0s/PersonalityQuiz#4-update-the-buttons-and-label-text)
     - [x] [Retrieve Answers with Actions](https://github.com/c4arl0s/PersonalityQuiz#5-retrieve-answers-with-actions)
-    - [x] [Respond to Answered Questions](https://github.com/c4arl0s/PersonalityQuiz#respond-to-answered-questions)
+    - [x] [Respond to Answered Questions](https://github.com/c4arl0s/PersonalityQuiz#response-to-answered-questions)
 5. [x] [5. Calculate and display results](https://github.com/c4arl0s/PersonalityQuiz#part-five---calculate-and-display-resuls)
     - [x] [Pass Data to the Result View](https://github.com/c4arl0s/PersonalityQuiz#1-pass-data-to-the-result-view)
     - [x] [Calculate Answer Frequency](https://github.com/c4arl0s/PersonalityQuiz#2-calculate-answer-frequency)
