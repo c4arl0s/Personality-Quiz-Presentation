@@ -1,0 +1,3 @@
+[submodule "PersonalityQuiz"]
+	path = PersonalityQuiz
+	url = git@github.com:c4arl0s/PersonalityQuiz.git
