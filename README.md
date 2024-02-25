@@ -1,5 +1,11 @@
 # [go back to overview](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [Personality Quiz](https://github.com/c4arl0s/PersonalityQuiz#personality-quiz---content-1)
 
 The app is a game that is going to reflect part of your personality, it has answers that maybe make no sense but it is an actual game.
